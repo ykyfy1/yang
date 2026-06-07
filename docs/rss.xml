@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>杨浚宇的博客</title><link>https://blog.yangjunyu.cc.cd/</link><description>欢迎光临</description><copyright>杨浚宇的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://blog.yangjunyu.cc.cd/</link></image><lastBuildDate>Sun, 07 Jun 2026 10:55:25 +0000</lastBuildDate><managingEditor>杨浚宇的博客</managingEditor><ttl>60</ttl><webMaster>杨浚宇的博客</webMaster><item><title>about</title><link>https://blog.yangjunyu.cc.cd//post/4.html</link><description>'关于'&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>杨浚宇的博客</title><link>https://blog.yangjunyu.cc.cd/</link><description>欢迎光临</description><copyright>杨浚宇的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://blog.yangjunyu.cc.cd/</link></image><lastBuildDate>Sun, 07 Jun 2026 11:09:09 +0000</lastBuildDate><managingEditor>杨浚宇的博客</managingEditor><ttl>60</ttl><webMaster>杨浚宇的博客</webMaster><item><title>about</title><link>https://blog.yangjunyu.cc.cd//post/4.html</link><description>'关于'&gt;
 
 **建站时间**
 
@@ -11,4 +11,16 @@
 
 **联系方式**
 
-我的邮箱:。</description><guid isPermaLink="true">https://blog.yangjunyu.cc.cd//post/4.html</guid><pubDate>Sun, 07 Jun 2026 09:37:40 +0000</pubDate></item></channel></rss>
+我的邮箱:。</description><guid isPermaLink="true">https://blog.yangjunyu.cc.cd//post/4.html</guid><pubDate>Sun, 07 Jun 2026 09:37:40 +0000</pubDate></item><item><title>about</title><link>https://blog.yangjunyu.cc.cd//about.html</link><description>'关于'
+
+**建站时间**
+
+2024年12月
+
+**托管平台**
+
+本站托管于github、cloudflare等平台
+
+**联系方式**
+
+我的邮箱:。</description><guid isPermaLink="true">https://blog.yangjunyu.cc.cd//about.html</guid><pubDate>Sun, 07 Jun 2026 09:37:40 +0000</pubDate></item></channel></rss>

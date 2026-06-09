@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // 资源路径（相对 docs/）
     const THEME_BG_IMAGE_DESKTOP = '/docs/image/zhuti.jpg';
     const THEME_BG_VIDEO_DESKTOP = '';
-    const THEME_BG_IMAGE_MOBILE = '/docs//image/zhuti.jpg'; // 建议换更小体积的图片
+    const THEME_BG_IMAGE_MOBILE = '/docs/image/zhuti.jpg'; // 建议换更小体积的图片
     const THEME_BG_VIDEO_MOBILE = ''; // 手机端如需视频可换更小体积
 
     // 更稳：优先使用 currentScript（某些环境 querySelector 取不到自己）
